@@ -25,7 +25,7 @@ pip install matplotlib
 ```
 to create the graph, used __import matplotlib.pyplot as plt__.
 
-__from sklearn.metrics import confusion_matrix,classification_report__ to create the confusion matrix which 
+__from sklearn.metrics import confusion_matrix,classification_report__ created confusion matrix which 
 gaves me Accuracy, Precision, Recall and F1-score.
 
 
