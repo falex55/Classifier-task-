@@ -28,7 +28,7 @@ to create the graph, used __import matplotlib.pyplot as plt__.
 __from sklearn.metrics import confusion_matrix,classification_report__ created confusion matrix which 
 gaves me Accuracy, Precision, Recall and F1-score.
 
-[description](https://afourtech.com/guide-docker-commands-examples/)
+[Reference](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 
 
 
